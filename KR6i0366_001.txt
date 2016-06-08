@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:28.057689
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 盂蘭盆經讚述
 #+PROPERTY: CBETA_ID T85n2781
 #+PROPERTY: ID KR6i0366
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2781
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0366_T_000-0540a>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0366_T_001-0540a> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2781[cf.No.685]¶
-
- 盂蘭盆經讚述¶
+No. 2781 [cf. No. 685]¶
+盂蘭盆經讚述¶
 ¶
 
 自他之□□□□□□□□□□□□□暢八¶
@@ -268,7 +267,7 @@ No.2781[cf.No.685]¶
 盆器窮爼食之神器。香油錠燭擬去暗以留¶
 光。床臥眾具則止疲以息慮。然則盆由聖制¶
 事藉功成。所以安汲灌於龍門。記燎於雷室。¶
-秦饒則皎之於前。趙玉亦佩之於後。神鳳上¶
+秦饒則皎之於前。趙玉亦󰝟之於後。神鳳上¶
 踴飛蓋下垂翻瑛。八珍盆羅百味檀那既就
 <pb:KR6i0366_T_001-0542c>¶
 福應時。聰庶拔擢於知恩。亦祐利於群品也。¶
