@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:28.057689
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 盂蘭盆經讚述
 #+PROPERTY: CBETA_ID T85n2781
 #+PROPERTY: ID KR6i0366
